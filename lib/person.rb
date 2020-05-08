@@ -8,4 +8,3 @@ class Person
 end
 
 walk = Person.new
-puts "The Person is walking"
